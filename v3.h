@@ -11,5 +11,5 @@ v3_t cross( v3_t v1, v3_t v2);
 
 void scale( v3_t* v, double s );
 
-#endif //V3_H
+#endif /*V3_H*/
 
